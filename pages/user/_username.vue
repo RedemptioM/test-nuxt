@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1 .display-3>{{ userName }}'s page</h1>
-    <h1 .display-2>User id: {{ userNum }}</h1>
+    <h1>{{ userName }}'s page</h1>
+    <h1>User id: {{ userNum }}</h1>
   </div>
 </template>
 
